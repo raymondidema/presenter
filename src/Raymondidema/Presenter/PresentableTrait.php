@@ -1,5 +1,6 @@
 <?php namespace Raymondidema\Presenter;
 
+use Raymondidema\Presenters\Exceptions\PresenterException;
 
 trait PresentableTrait {
     /**
