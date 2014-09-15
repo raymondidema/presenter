@@ -2,6 +2,8 @@
 
 ## Usage
 
+**Note:** for Laravel 5 use `~2.*` and for Laravel 4 use `~1.*`
+
 ### Presenters
 ```
     use Raymondidema\Presenter\Presenter;
